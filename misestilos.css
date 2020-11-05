@@ -1,6 +1,12 @@
 .titulo{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #005883;
+}
+
+.titulo1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .menu{
@@ -12,6 +18,9 @@
 
 .logo{
     text-align: center;
+    background-color: #005883;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .tablas{
@@ -44,7 +53,24 @@
 }
 
 .foto{
-    width: 100%;
-    margin: 100px;
+    width: 50%;
+    margin: 90px;
     height: 700px;
+}
+
+.Regresar{
+    background-color: #50B748;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagencentrada{
+    width: 85%;
+    margin: 90px;
+    height: 500px;
+}
+
+.fuentetexto{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
