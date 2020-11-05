@@ -1,0 +1,50 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu{
+    padding: 20px;
+    background-color: #f0b429;
+    width: 100%;
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+}
+
+.tablas{
+    width: 80%;
+    margin: 40px;
+}
+
+.justificado{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tablas2{
+    width: 80%;
+    margin: 40px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.izquierda{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mivideo1{
+    width: 100%;
+    margin: 2px;
+    height: 500px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.foto{
+    width: 100%;
+    margin: 100px;
+    height: 700px;
+}
